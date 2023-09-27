@@ -1,0 +1,6 @@
+valores = (1, 2, 3, 4, 5)
+print("Valores atribuídos: ", valores)
+valoresLista = list(valores)
+valoresLista.remove(2)
+valoresLista.remove(4)
+print("Valores atuais:", valoresLista)
